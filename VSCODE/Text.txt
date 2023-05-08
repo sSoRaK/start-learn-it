@@ -12,4 +12,4 @@ Live Server
 Path Intellisense
 Prettier - Code formatter
 
--> FullStack -> Game Dev
+-> FullStack Web -> Game Dev
