@@ -1,5 +1,7 @@
 Giới thiệu tổng quan lập trình
+
 8/5 Start!!!
+
 Họ & Tên: Nguyễn Hữu Thông
 Auto Close Tag
 Auto Import
@@ -9,4 +11,5 @@ IntelliCode
 Live Server
 Path Intellisense
 Prettier - Code formatter
+
 -> FullStack -> Game Dev
